@@ -4,9 +4,6 @@ setup = function() {
     
    noCursor();
    
-
-
-
 };
 
 var plant1X = -100;
